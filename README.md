@@ -19,5 +19,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 <h4 align="center">Discord Status</h4>
 <p align="center">
-<img src="https://discord.c99.nl/widget/theme-1/313698444822708226.png" /> 
+<img src="https://discord.c99.nl/widget/theme-1/343324491704827904.png" /> 
 </p>
