@@ -50,10 +50,14 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/11184335370">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+<div align="left">
+  <a href="https://discord.gg/forma-roleplay-4ma-hungary-1022820197003972608" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=black&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
 </div>
+
+<p align="center">
+<img src="https://discord.c99.nl/widget/theme-1/343324491704827904.png" /> 
+</p>
 
 ###
